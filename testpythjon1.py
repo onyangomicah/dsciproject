@@ -1,0 +1,1 @@
+print("This is fist python test project")
